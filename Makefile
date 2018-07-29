@@ -5,7 +5,7 @@ SRC=main.asm
 TOP=main.asm
 
 ASMCMD=pasmo
-AFLAGS=--tapbas
+AFLAGS=-1 --tapbas -I $(DIR) -I ./include 
 
 EMUCMD=fuse
 EFLAGS=-g hq3x -m plus3
