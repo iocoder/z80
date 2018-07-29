@@ -68,3 +68,9 @@ RST_BCSPACES:	EQU		$30
 ; - OUTPUTS:    N/A
 RST_MASKINT:	EQU		$38
 
+; --------------------------------------------
+;   ROM SCREEN ROUTINES
+; --------------------------------------------
+ROM_CLS     	EQU		$0D6B
+ROM_CL_ALL		EQU		$0DAF
+ROM_CHANN_OPEN	EQU		$1601
