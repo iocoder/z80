@@ -22,4 +22,10 @@ Manifest
     * challenges/    Interesting problems/code challenges.
     * utilities/     Some cool utilities like memory manager.
 
+Credits
+-------
+
+The code under tutorials and challenges is created by Adrian Brown (adrian@apbcomputerservices.co.uk). His 
+aim is to make it easy to follow the tutorials and the challenges.
+
 Have fun!
