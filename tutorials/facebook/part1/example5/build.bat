@@ -1,1 +1,0 @@
-..\..\tools\pasmo.exe -1 --tapbas main.asm main.tap main.sym

@@ -20,6 +20,7 @@ Manifest
 
     * tutorials/     Tutorials on how to program Z80 on Spectrum.
     * challenges/    Interesting problems/code challenges.
+    * examples/      Z80 code examples.
     * utilities/     Some cool utilities like memory manager.
 
 Credits
@@ -27,5 +28,6 @@ Credits
 
 The code under tutorials and challenges is created by Adrian Brown (adrian@apbcomputerservices.co.uk). His 
 aim is to make it easy to follow the tutorials and the challenges. This fork makes his work usable on UNIX.
+The repository contains code by John Young (polomint77), Adrian, and others.
 
 Have fun!
