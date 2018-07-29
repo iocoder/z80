@@ -1,5 +1,5 @@
-Z80
-===
+Z80 (UNIX Fork)
+===============
 
 ~~~
 ______________  ___   _________                     __                                     ________  
@@ -26,6 +26,6 @@ Credits
 -------
 
 The code under tutorials and challenges is created by Adrian Brown (adrian@apbcomputerservices.co.uk). His 
-aim is to make it easy to follow the tutorials and the challenges.
+aim is to make it easy to follow the tutorials and the challenges. This fork makes his work usable on UNIX.
 
 Have fun!
