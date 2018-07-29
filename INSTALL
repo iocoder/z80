@@ -28,11 +28,17 @@ INSTALLATION GUIDE FOR UNIX SYSTEMS:
 8) Run fuse to make sure it is installed properly:
    $ fuse
 
-9) Chdir to any example directory (for instance, example3, provided by Adrian):
-   $ cd <path-to-repo>/tutorials/facebook/part1/example1
+9) Chdir to z80-unix repository:
+   $ cd <path/to/z80-unix>
 
-A) Run make to compile the assembler file
-   $ make
+A) Run make to compile any code example directory
+   $ make DIR=tutorials/part1/example3
+   
+   This will generate files under
+   build/tutorials/part1/example3
 
 B) Finally, run make emu to emulate the file
-   $ make emu
+   $ make DIR=tutorials/part1/example3 emu
+
+   BTW you can skip step A and always run make emu to compile
+   and emulate in one shot.
